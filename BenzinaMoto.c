@@ -13,5 +13,5 @@ int main(){
 	return 0;
 }
 
-//x:n=y:1 => y=(x*1)/n
+//x:n=y:1 => y=(x*1)/n   [FORMULA PER CALCOLARE I KILOMETRI PERCORSI CON 1 LITRO]
 
