@@ -1,0 +1,35 @@
+#include <stdio.h>
+
+int main(){
+
+  scanf("%d", operatore);
+  switch(operatore){
+    case 1:
+        printf("%d", a+b);
+        break;
+   case 2:
+    printf("%d", a-b);
+        break;
+   case 3:
+    printf("%d", a*b);
+        break;
+   case 4:
+    printf("%d", a+b);
+        break;
+   default:  //viene usato se la variabile non contiene nessuna delle operazioni sopra elencate
+   printf("operatore non valido")
+   break;
+         
+}
+
+
+}
+
+
+
+/*
+1 = +
+2 = -
+3= *
+4= /
+*/
